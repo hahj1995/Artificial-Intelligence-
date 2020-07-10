@@ -1,7 +1,7 @@
 # Task 2 'OpenCV Face Detection'
 To write a python code that **detect** **faces** in a given image (test image) .
 
-## Prerequistes
+## Prerequisites
 -   Download the xml Cascade Classifier.
 -   Image for testing.
 
@@ -9,6 +9,7 @@ To download the classifier , you can go to the following site [XML Cascade Class
 ![](images/TestImg.jpg)
 ## The code 
 
+```python
         # In this task Cascade Classifier will be used to detect faces in a photo
         import cv2
      
@@ -33,8 +34,10 @@ To download the classifier , you can go to the following site [XML Cascade Class
     # without being in a file but if did so you should comment the previous line
     # cv2.imshow('output.jpg', image)
     # cv2.waitKey()
+```
 
 After running the previous code ,the result is this image (output.jpg):
+
 ![](images/output.jpg)
 ### Additional info:
 

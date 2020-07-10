@@ -1,0 +1,1 @@
+## In this part we can see the **given tasks** for the **2nd** Week of training.

@@ -1,4 +1,4 @@
-# Task 3 'OpenCV Exmple ( Corner Detection )'
+# Task 3 'OpenCV Example ( Corner Detection )'
 To write a python code that **detect** **corners** in a given image (test image) .
 
 ## Prerequisites
