@@ -27,17 +27,20 @@ cd ~/catkin_ws && catkin_make`
 
 #### TurtleBot3 has three models : burger, waffle, waffle_pi (shown in the picture from left to right). You can choose anyone of them. 
 ![](images/2.png)
+
 In this example, we will using the **waffle model** 
+
 ![](images/1.png)
 #### Add this line  `export TURTLEBOT3_MODEL=waffle`  at the bottom of the file ( line 119 ) to go with "waffle model" after  entering the command: 
 ```bash
 gedit ~/.bashrc`
 ```
 ![](images/3.png)
+
 Save and quit the file.
 
 
-#### reload .bashrc so that you do not have to log out and log back in.
+#### Reload .bashrc so that you do not have to log out and log back in.
 ```bash
 source ~/.bashrc`
 ```
